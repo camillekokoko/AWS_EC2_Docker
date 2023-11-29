@@ -8,13 +8,13 @@
 
 ## AWS Cloud and EC2 instance Setup
 1. **Instance Launch on AWS EC2:**
-   Navigate to AWS EC2 and initiate the instance launch process.
+   Navigate to [AWS EC2](https://aws.amazon.com/) and initiate the instance launch process.
 
 2. **Operating System Selection:**
    Select the desired operating system image, such as Ubuntu, macOS, or Windows.
 
 3. **Instance Type (Free Tier):**
-   Choose an instance type based on CPU and memory requirements eligible for the free tier.
+   Choose an instance type based on CPU and memory requirements eligible for the [free tier](https://aws.amazon.com/free/?gclid=Cj0KCQiA35urBhDCARIsAOU7QwkBj6iXTdem4fRN2bKDH8qkG2fG5aOWDSjTXI6etVCLz_WEK_D4gKYaAgEtEALw_wcB&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=categories%23compute&trk=5136fcc7-fda9-45d9-a722-6e7f07f8bafa&sc_channel=ps&ef_id=Cj0KCQiA35urBhDCARIsAOU7QwkBj6iXTdem4fRN2bKDH8qkG2fG5aOWDSjTXI6etVCLz_WEK_D4gKYaAgEtEALw_wcB:G:s&s_kwcid=AL!4422!3!476956951563!e!!g!!aws%20cloud!11539887573!114142395562).
 
 4. **Security Group Configuration:**
    Configure a security group to manage the instance's traffic and enhance its security settings.
