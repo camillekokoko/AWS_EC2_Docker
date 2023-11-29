@@ -74,3 +74,18 @@ sudo docker images
 ```
 sudo docker ps
 ```
+
+## Clone the Repository of the Application
+```
+git clone <repo>
+```
+## Configuring and Running the Dockerized Application
+```
+# Build and start the containers using Docker Compose
+docker-compose up --build
+```
+## Configuring AWS Security Group
+1. **Go to the AWS Management Console and navigate to the EC2 service.**
+2. **Select running instance and click on "Actions" > "Networking" > "Change Security Groups."**
+3. **Create a new security group or modify the existing one.**
+4. **Add a new inbound rule to allow traffic on port 3001 (or the desired port) from anywhere (0.0.0.0/0).**
