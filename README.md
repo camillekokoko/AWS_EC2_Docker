@@ -8,10 +8,14 @@
 
 ## AWS Cloud and EC2 instance Setup
 
-**1.** Navigate to AWS EC2 and initiate the instance launch process.
-**2.** Select the desired operating system image, such as Ubuntu, macOS, or Windows. 
-**3.** Select an instance type (CPU/memory) for instance free tier.
-**4.** Configure a security group to manage the instance's traffic and enhance its security settings.
+**1.** 
+Navigate to AWS EC2 and initiate the instance launch process.
+**2.** 
+Select the desired operating system image, such as Ubuntu, macOS, or Windows. 
+**3.** 
+Select an instance type (CPU/memory) for instance free tier.
+**4.** 
+Configure a security group to manage the instance's traffic and enhance its security settings.
 
 
 ## Docker Setup
