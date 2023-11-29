@@ -26,7 +26,7 @@ sudo snap install docker
 docker --version
 ```
 
-**7.** Pull an image from Docker hub. "Run" is for interactive mode. "Start" is running it in the background.
+**7.** Pull an image from Docker hub. "Run" is for interactive mode. "Start" is running in the background.
 ```
 # Pull and run the nginx image
 sudo docker run <image>
