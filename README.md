@@ -19,6 +19,27 @@
 4. **Security Group Configuration:**
    Configure a security group to manage the instance's traffic and enhance its security settings.
 
+5. **Launch the instance and download the private key file**
+
+## Git Setup
+**1.** Connect to EC2 instance
+```
+ssh -i your-key.pem ubuntu@your-ec2-instance-ip
+```
+**2.** (Optional) Update the package manager
+```
+sudo apt update
+```
+**3.** Install Git
+```
+sudo apt install git -y
+
+```
+**4.** (Optional) Check Git verison
+```
+git --version
+
+```
 
 ## Docker Setup
 
