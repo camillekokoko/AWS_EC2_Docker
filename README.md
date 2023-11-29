@@ -33,12 +33,10 @@ sudo apt update
 **3.** Install Git
 ```
 sudo apt install git -y
-
 ```
-**4.** (Optional) Check Git verison
+**4.** (Optional) Check Git version
 ```
 git --version
-
 ```
 
 ## Docker Setup
