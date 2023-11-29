@@ -1,6 +1,8 @@
 # AWS_EC2_Docker
 
-![AWS Framework](https://github.com/camillekokoko/AWS_EC2_Docker/blob/main/AWS_framework.jpeg)
+## AWS Framework
+<img src="https://raw.githubusercontent.com/camillekokoko/AWS_EC2_Docker/main/AWS_framework.jpeg" alt="AWS Framework" width="300">
+
 
 **1.** Go to aws
 ```
