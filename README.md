@@ -11,7 +11,7 @@
  sudo
 ```
 
-**4. ** Installing Docker on OS Image (Ubuntu)
+**4.** Installing Docker on OS Image (Ubuntu)
 ```
 sudo apt install docker.io
 ```
